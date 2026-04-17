@@ -47,7 +47,7 @@ Hệ thống phân tích mã độc (Malware Analysis System) là ứng dụng w
 - Hiển thị báo cáo trong dashboard
 
 ### 5. Cơ Sở Dữ Liệu Rules
-- Capa rules library (1000+ rules)
+- Capa rules library 
 - Custom YARA rules (Keylogger, Ransomware, Trojan)
 - Known IMPHash database cho malware families
 
